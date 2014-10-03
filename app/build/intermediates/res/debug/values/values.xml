@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/DemonStore/AndroidstudioProjects/StudentInfo/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="input_width">150dp</dimen>
+    <dimen name="label_width">70dp</dimen>
+    <!-- From: file:/C:/Users/DemonStore/AndroidstudioProjects/StudentInfo/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_reset">Reset</string>
+    <string name="adress_label">Adress:</string>
+    <string name="app_name">Information about student</string>
+    <string name="call_button">Call</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="email_label">E-mail:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message_text">Please input your data</string>
+    <string name="name_label">Name:</string>
+    <string name="phone_label">Phone:</string>
+    <string name="reset_text">All fields reset</string>
+    <string name="validation_not_complete_text">Not all fields are filled</string>
+    <!-- From: file:/C:/Users/DemonStore/AndroidstudioProjects/StudentInfo/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

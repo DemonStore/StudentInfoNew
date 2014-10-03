@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res" >
+            <file
+                name="ic_action_undo"
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\drawable-hdpi\ic_action_undo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_undo"
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\drawable-mdpi\ic_action_undo.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_undo"
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\drawable-xhdpi\ic_action_undo.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_undo"
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\drawable-xxhdpi\ic_action_undo.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_sub"
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\layout\activity_sub.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="sub"
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\menu\sub.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="label_width" >70dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="input_width" >150dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="reset_text" >All fields reset
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="adress_label" >Adress:
+                </string>
+                <string name="message_text" >Please input your data
+                </string>
+                <string name="confirm_button" >Confirm
+                </string>
+                <string name="app_name" >Information about student
+                </string>
+                <string name="validation_not_complete_text" >Not all fields are filled
+                </string>
+                <string name="name_label" >Name:
+                </string>
+                <string name="phone_label" >Phone:
+                </string>
+                <string name="call_button" >Call
+                </string>
+                <string name="email_label" >E-mail:
+                </string>
+                <string name="action_reset" >Reset
+                </string>
+            </file>
+            <file
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\DemonStore\AndroidstudioProjects\StudentInfo\app\src\debug\res" />
+    </dataSet>
+
+</merger>
