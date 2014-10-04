@@ -13,11 +13,6 @@ import android.widget.TextView;
 
 public class SubActivity extends Activity {
 
-    private static final String NAME_INDEX = "name";
-    private static final String PHONE_INDEX = "phone";
-    private static final String EMAIL_INDEX = "email";
-    private static final String ADRESS_INDEX = "adress";
-
     public static final String EXTRA_NAME = "com.bsu.mmf.web.losdy.studentinfo.name";
     public static final String EXTRA_PHONE = "com.bsu.mmf.web.losdy.studentinfo.phone";
     public static final String EXTRA_EMAIL = "com.bsu.mmf.web.losdy.studentinfo.email";
